@@ -114,6 +114,7 @@ h1, .h1 {
 @media (min-width: 1200px) {
   h1, .h1 {
     font-size: 2.5rem;
+    font-color:red;
   }
 }
 
@@ -11274,17 +11275,7 @@ textarea.form-control-lg {
     display: table-cell !important;
   }
 
-  .d-print-flex {
-    display: flex !important;
-  }
 
-  .d-print-inline-flex {
-    display: inline-flex !important;
-  }
-
-  .d-print-none {
-    display: none !important;
-  }
 }
 html {
   scroll-padding-top: 3.5rem;
